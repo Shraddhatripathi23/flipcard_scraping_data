@@ -1,8 +1,5 @@
 #!/usr/bin/env python
 # coding: utf-8
-
-
-
 pip install pandas 
 pip install bs4
 pip install requests
@@ -23,12 +20,10 @@ for i in range (1, int (page_num)+1):
     price=content.find_all('div',{"class":"_30jeq3 _1_WHN1"})
     print("Phone in page "+str(i))
     print(len(name))
-    
-    
-    for i in name:
-        phn_nm.append(i.text)
-    for i in price:
-        phn_pr.append(i.text)
+for i in name:
+    phn_nm.append(i.text)
+for i in price:
+    phn_pr.append(i.text)
 
 
 for i in phn_pr:
@@ -39,10 +34,3 @@ print(len(phn_pr), len(phn_nm))
 data = {"phone name":phn_nm,"phone price":phn_pr}
 df=pd.DataFrame(data)
 print(df)
-
-
-
-
-
-
-
