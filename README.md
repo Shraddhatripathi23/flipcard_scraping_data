@@ -1,5 +1,8 @@
 # flipcard_scraping_data Overview
 The Flipcard Scraping Python project aims to extract information about all MI mobiles and their corresponding prices from the Flipcard website. By using web scraping techniques, the project retrieves the necessary data, allowing users to gather details and pricing for MI mobiles easily and efficiently.
+![GitHub Logo]([https://example.com/path/to/your/image.svg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfIN04EmbyLeXfBreFFnkKUBNy74aT0-DPdg&usqp=CAU))
+
+
 
 ## Motivation
 
