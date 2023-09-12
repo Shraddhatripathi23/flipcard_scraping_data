@@ -1,7 +1,6 @@
 # flipcard_scraping_data Overview
 The Flipcard Scraping Python project aims to extract information about all MI mobiles and their corresponding prices from the Flipcard website. By using web scraping techniques, the project retrieves the necessary data, allowing users to gather details and pricing for MI mobiles easily and efficiently.
 
-![GitHub Logo](([https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfIN04EmbyLeXfBreFFnkKUBNy74aT0-DPdg&usqp=CAU](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfIN04EmbyLeXfBreFFnkKUBNy74aT0-DPdg&usqp=CAU)))
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfIN04EmbyLeXfBreFFnkKUBNy74aT0-DPdg&usqp=CAU)
 
 
@@ -43,8 +42,10 @@ Web Scraping: The project will utilize web scraping techniques to extract data f
 
 ## Technologies Used
 
-![](https://forthebadge.com/images/badges/made-with-python.svg)
+![]([https://forthebadge.com/images/badges/made-with-python.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg))
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXl-hv-ulSEUSVMjKdP2xCfCL_5JMY4AG-Uw&usqp=CAU)
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+
 
 
 ## Steps to Extract MI Mobiles and Prices from Flipkart:
