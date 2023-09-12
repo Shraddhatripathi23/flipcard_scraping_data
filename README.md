@@ -42,7 +42,7 @@ Web Scraping: The project will utilize web scraping techniques to extract data f
 
 ## Technologies Used
 
-![]([https://forthebadge.com/images/badges/made-with-python.svg])(https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg))
+
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXl-hv-ulSEUSVMjKdP2xCfCL_5JMY4AG-Uw&usqp=CAU)
 ! [](<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="auto" height="auto"/>)
 
