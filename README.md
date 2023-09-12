@@ -3,6 +3,14 @@ The Flipcard Scraping Python project aims to extract information about all MI mo
 
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfIN04EmbyLeXfBreFFnkKUBNy74aT0-DPdg&usqp=CAU)
 
+# Extracted data shown like this 
+
+<img width="1090" alt=""  src="https://github.com/Shraddhatripathi23/flipcard_scraping_data/assets/50836422/e699860a-e724-42d9-9a97-836a56101fd0">
+
+
+
+
+
 
 
 ## Motivation
@@ -98,6 +106,7 @@ Web Scraping: The project will utilize web scraping techniques to extract data f
 ```
 
 # Extracted data shown like this 
+
 <img width="1090" alt="Screenshot 2023-06-26 at 11 12 19 PM" src="https://github.com/Shraddhatripathi23/flipcard_scraping_data/assets/50836422/e699860a-e724-42d9-9a97-836a56101fd0">
 
 
